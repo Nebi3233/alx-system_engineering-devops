@@ -1,1 +1,1 @@
-My first permit
+My first redirectory
